@@ -1,7 +1,7 @@
 # Eye_mouse
 Eye-Controlled Mouse with Python and OpenCV
 
-itle: Eye-Controlled Mouse
+Title: Eye-Controlled Mouse
 
 Description:
 This Python script implements an eye-controlled mouse using computer vision and facial landmark detection. The script utilizes OpenCV (cv2) for image processing, Mediapipe for face landmark detection, and PyAutoGUI for mouse control.
