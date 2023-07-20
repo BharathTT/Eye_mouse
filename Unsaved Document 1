@@ -1,0 +1,14 @@
+git clone https://github.com/BharathTT/Machine-learning-models.git
+git add .
+git commit -m "Renamed KNN Mall customer to KMeans Mall customer"
+ 2012  git push
+git remote set-url origin git@github.com:BharathTT/Machine-learning-models.git
+ 2018  git push
+ 2019  ssh-add /path/to/id
+ 2020  eval "$(ssh-agent -s)"
+ 2021  ssh-add /path/to/id
+ssh-add -l
+ 2033  git push
+
+
+
